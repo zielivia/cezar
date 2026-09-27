@@ -15,16 +15,15 @@ script and always looks the same.
 1. **Hexagonal C.** A regular hexagon open to the right. The upper arm is longer and cut
    at 30 degrees; the lower arm ends in a sharp wedge.
 2. **Laurel leaf.** Parallel to the upper-left edge of the C, separated from it by a gap
-   of a third of the stroke. The left end is slanted and sticks out past the C; the right
-   end is vertical and stops on the axis of the top vertex.
+   of a third of the stroke. Both ends are vertical: the left one in line with the left
+   edge of the C, the right one on the axis of the top vertex.
 3. **Two dots.** Identical regular hexagons on the horizontal axis of the C, equally
    spaced from each other and from the inside of the letter.
 
 ## Construction
 
-The edges of the mark run in three directions: vertical, 30 and 150 degrees. The one
-exception is the slanted left end of the leaf (105 degrees), which gives the mark its
-character. Measurements are in tile units (the tile is 704 u). The base measure is x, the stroke
+Every edge of the mark runs in one of three directions: vertical, 30 or 150 degrees.
+Measurements are in tile units (the tile is 704 u). The base measure is x, the stroke
 width.
 
 <img src="construction.svg" alt="Construction grid of the mark with dimensions" width="360" />
@@ -38,7 +37,7 @@ width.
 | Dots | regular hexagons, radius 49 u |
 | Dot gaps | 44 u (about ½ x), both equal |
 | Leaf gap | 30 u (⅓ x) |
-| Leaf ends | left slanted at 105°, right vertical |
+| Leaf ends | vertical, on the lines of the C |
 | Position | centred in the tile |
 
 ## Clear space and minimum size
